@@ -135,7 +135,7 @@ quantum-limit-graph-v2.4.0/
 
 ## 📄 License
 
-Apache 2.0 - See [LICENSE](LICENSE) for details
+CC BY-NC-SA 4.0 License - See [LICENSE](LICENSE) for details
 
 ## 🙏 Acknowledgments
 
@@ -150,3 +150,4 @@ Built on top of:
 **Version**: 2.4.0  
 **Release Date**: October 15, 2025  
 **Status**: ✅ Production Ready
+
