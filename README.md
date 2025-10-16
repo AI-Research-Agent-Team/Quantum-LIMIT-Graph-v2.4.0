@@ -128,9 +128,9 @@ quantum-limit-graph-v2.4.0/
 
 ## 🔗 Links
 
-- **Hugging Face Space**: [quantum-limit-graph-v2.4.0](https://huggingface.co/spaces/quantum-limit-graph-v2.4.0)
-- **Model Hub**: [Quantum Modules](https://huggingface.co/models?search=quantum-limit-graph)
-- **Datasets**: [Edit Logs & Traces](https://huggingface.co/datasets?search=quantum-limit-graph)
+- **Hugging Face Space**: [quantum_limit-graph_v2.4.0]((https://huggingface.co/spaces/AIResAgTeam/quantum_limit-graph_v2.4.0))
+- **Model Hub**: [Quantum Modules](https://huggingface.co/AIResAgTeam/Quantum_LIMIT-GRAPH_v2.4.0)
+- **Datasets**: [Edit Logs & Traces](https://huggingface.co/AIResAgTeam/Quantum_LIMIT-GRAPH_v2.4.0/tree/main)
 - **Documentation**: [Full Docs](./docs/)
 
 ## 📄 License
@@ -150,4 +150,5 @@ Built on top of:
 **Version**: 2.4.0  
 **Release Date**: October 15, 2025  
 **Status**: ✅ Production Ready
+
 
