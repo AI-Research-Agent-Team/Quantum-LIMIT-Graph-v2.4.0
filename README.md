@@ -2,7 +2,7 @@
 
 **Backend Benchmarking, QEC Integration & Visualization Platform**
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)(LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/)
 
@@ -150,6 +150,7 @@ Built on top of:
 **Version**: 2.4.0  
 **Release Date**: October 15, 2025  
 **Status**: ✅ Production Ready
+
 
 
 
